@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/sdtmusicbox.mp3-17cdad52bc61233de0caa2196d97f241.mp3str"
+
+[deps]
+
+source_file="res://Sound/sdtmusicbox.mp3"
+dest_files=[ "res://.import/sdtmusicbox.mp3-17cdad52bc61233de0caa2196d97f241.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

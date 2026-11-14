@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/sdtrack.mp3-b0ec8574d2efa52d7b77b46224d2e9a3.mp3str"
+
+[deps]
+
+source_file="res://Sound/sdtrack.mp3"
+dest_files=[ "res://.import/sdtrack.mp3-b0ec8574d2efa52d7b77b46224d2e9a3.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0
